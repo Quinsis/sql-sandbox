@@ -21,4 +21,4 @@
 
 # Деплой
 <p>При развёртывании приложения использовались такие сервисы как reg.ru и timeweb.cloud</p>
-<p>На reg.ru покупался хостинг, сервер с ос linux, на котором стоит nginx, на timeweb.cloud находится база данных mongodb. Postgres находится на сервере.</p>
+<p>На <a href="https://reg.ru">reg.ru</a> покупался хостинг, сервер с ос linux, на котором стоит nginx, на <a href="https://timeweb.cloud">timeweb.cloud</a находится база данных mongodb. Postgres находится на сервере.</p>
