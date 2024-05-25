@@ -20,5 +20,5 @@
 </ul>
 
 # Деплой
-<p>При развёртывании приложения использовались такие сервисы как reg.ru и timeweb.cloud</p>
-<p>На <a href="https://reg.ru">reg.ru</a> покупался хостинг, сервер с ос linux, на котором стоит nginx, на <a href="https://timeweb.cloud">timeweb.cloud</a находится база данных mongodb. Postgres находится на сервере.</p>
+<p>При развёртывании приложения использовались такие сервисы как <a href="https://reg.ru">reg.ru</a> и <a href="https://timeweb.cloud">timeweb.cloud</a></p>
+<p>На <a href="https://reg.ru">reg.ru</a> покупался хостинг, сервер с ос linux, на котором стоит nginx, на <a href="https://timeweb.cloud">timeweb.cloud</a> находится база данных mongodb. Postgres находится на сервере.</p>
